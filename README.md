@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alessandro-giovanni
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning docker, c#
 
 <!---
 alessandro-giovanni/alessandro-giovanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
